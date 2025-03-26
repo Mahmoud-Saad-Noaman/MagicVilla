@@ -37,11 +37,18 @@
                         </li>
                     </ul>
                     <ul class="navbar-nav ms-auto">
+
+
                         @if (httpAcc.HttpContext.Session.GetString(SD.SessionToken) != null &&
                         httpAcc.HttpContext.Session.GetString(SD.SessionToken).ToString().Length > 0)
                         {
+                            var email = httpAcc.HttpContext.User.FindFirst(System.Security.Claims.ClaimTypes.Email)?.Value;
+
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="Auth" asp-action="Logout">Logout</a>
+                                <span class="nav-link text-white">Hello @email</span>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-danger" asp-controller="Auth" asp-action="Logout">Logout</a>
                             </li>
                         }
                         else
