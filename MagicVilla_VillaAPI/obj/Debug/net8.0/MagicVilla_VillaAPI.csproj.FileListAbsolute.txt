@@ -148,3 +148,4 @@ D:\DotNet Project 2025\MagicVilla\MagicVilla_VillaAPI\bin\Debug\net8.0\Microsoft
 D:\DotNet Project 2025\MagicVilla\MagicVilla_VillaAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 D:\DotNet Project 2025\MagicVilla\MagicVilla_VillaAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
 D:\DotNet Project 2025\MagicVilla\MagicVilla_VillaAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DotNet Project 2025\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\MagicVilla_VillaAPI.sourcelink.json

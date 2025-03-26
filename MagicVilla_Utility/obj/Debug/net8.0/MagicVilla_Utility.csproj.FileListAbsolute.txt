@@ -9,3 +9,4 @@ D:\DotNet Project 2025\MagicVilla\MagicVilla_Utility\obj\Debug\net8.0\MagicVilla
 D:\DotNet Project 2025\MagicVilla\MagicVilla_Utility\obj\Debug\net8.0\refint\MagicVilla_Utility.dll
 D:\DotNet Project 2025\MagicVilla\MagicVilla_Utility\obj\Debug\net8.0\MagicVilla_Utility.pdb
 D:\DotNet Project 2025\MagicVilla\MagicVilla_Utility\obj\Debug\net8.0\ref\MagicVilla_Utility.dll
+D:\DotNet Project 2025\MagicVilla\MagicVilla_Utility\obj\Debug\net8.0\MagicVilla_Utility.sourcelink.json

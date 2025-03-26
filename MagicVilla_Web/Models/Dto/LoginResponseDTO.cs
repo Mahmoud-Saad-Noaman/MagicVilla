@@ -4,10 +4,10 @@ namespace MagicVilla_Web.Models.Dto
 {
     public class LoginResponseDTO
     {
-        [Required]     
+        //[Required]     
         public UserDTO User { get; set; }
 
-        [Required]   
+        //[Required]   
         public string Token { get; set; }
     }
 }

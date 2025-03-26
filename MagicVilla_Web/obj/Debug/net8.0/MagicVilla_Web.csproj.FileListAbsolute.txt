@@ -39,3 +39,9 @@ D:\DotNet Project 2025\MagicVilla\MagicVilla_Web\bin\Debug\net8.0\Newtonsoft.Jso
 D:\DotNet Project 2025\MagicVilla\MagicVilla_Web\bin\Debug\net8.0\MagicVilla_Utility.dll
 D:\DotNet Project 2025\MagicVilla\MagicVilla_Web\bin\Debug\net8.0\MagicVilla_Utility.pdb
 D:\DotNet Project 2025\MagicVilla\MagicVilla_Web\obj\Debug\net8.0\MagicVil.F5E7C950.Up2Date
+D:\DotNet Project 2025\MagicVilla\MagicVilla_Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotNet Project 2025\MagicVilla\MagicVilla_Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet Project 2025\MagicVilla\MagicVilla_Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DotNet Project 2025\MagicVilla\MagicVilla_Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet Project 2025\MagicVilla\MagicVilla_Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet Project 2025\MagicVilla\MagicVilla_Web\obj\Debug\net8.0\MagicVilla_Web.sourcelink.json
